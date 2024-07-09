@@ -16,8 +16,8 @@ direction: ltr
 nav:
   home: /
   about: /about/
-  articles: /archives/
-  projects: http://github.com/probberechts
+  articles: /articles/
+  projects: https://github.com/Tesiadyn
 
 
 # Links to your social media accounts.
@@ -29,24 +29,23 @@ nav:
 social_links:
   -
     icon: github
-    link: http://github.com/probberechts/cactus-dark
+    link: https://github.com/Tesiadyn
   -
-    icon: twitter
-    link: /
-  -
-    icon: facebook
-    link: /
-  -
+  #   icon: twitter
+  #   link: /
+  # -
+  #   icon: facebook
+  #   link: /
+  # -
     icon: mail
-    link: mailto:name@email.com
+    link: mailto:marcehsu.dev@email.com
   -
-    icon: mastodon
-    label: mastodon.social
-    link: https://mastodon.social/@alice
-  -
-    icon: mastodon
-    label: fosstodon.org
-    link: https://fosstodon.org/@alice
+    icon: linkedin
+    link: https://www.linkedin.com/in/marcehsu/
+  # -
+  #   icon: mastodon
+  #   label: fosstodon.org
+  #   link: https://fosstodon.org/@alice
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
@@ -138,7 +137,7 @@ favicon:
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
 # Alternatively, add your own custom color scheme to source/css/_colors.
-colorscheme: dark
+colorscheme: light
 
 # Maximal width of the page in rem units.
 page_width: 48
